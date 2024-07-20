@@ -1,4 +1,1 @@
 print("merhaba dünya");
-
-if (a+b == 5)
-	print("Merhaba Dünya")
